@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhav-srivastava-1
 - 👀 I’m interested in Android and Web Development  
 - 🌱 I’m currently learning Android Development
-- 📫 You can reach me by dropping a dm on my Instagram
+- 📫 You can connect with me on - vaibhavsrivastava2307@gmail.com
 - 🤖 Learning ML and AI
 <!---
 vaibhav-srivastava-1/vaibhav-srivastava-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
